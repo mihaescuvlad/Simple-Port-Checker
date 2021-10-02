@@ -1,4 +1,4 @@
-# Simple-Port-Checker
+# Simple-Port-Scanner
 **Only use this if you have permission**
 
 This checks if ports are open or closed/timed out.
