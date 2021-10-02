@@ -1,5 +1,5 @@
 # Simple-Port-Scanner
-**Only use this if you have permission**
+**Only use this on IPs that you have permission to scan**
 
 This checks if ports are open or closed/timed out.
 
